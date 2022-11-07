@@ -53,7 +53,7 @@ public class sinifiGecmeDurumu {
             n += 1;
         }
 
-        double avarage = toplam / n;
+        double avarage = (toplam / n);
 
         if (avarage >= 55) {
             System.out.println("Tebrikler Sınıfı Geçtiniz! Not Ortalamanız : " + avarage);
