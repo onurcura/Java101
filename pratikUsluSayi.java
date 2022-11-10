@@ -2,6 +2,9 @@ import  java.util.Scanner;
 
 public class pratikUsluSayi {
     public static void main(String[] args) {
+
+        //Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan program.
+
         int a,b,total=1;
         Scanner inp = new Scanner(System.in);
 
