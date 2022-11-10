@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class basamakSayilariniToplama {
     public static void main(String[] args) {
+
+        // Girilen sayının basamaklarını toplayan program.
+
         int number;
         int basValue;
         int total=0;
