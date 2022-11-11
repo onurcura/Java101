@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class fibonacciBulma {
     public static void main(String[] args) {
 
+        //Java döngüler ile fibonacci serisi bulan program.
+
         int num;
         int b=0;
         int result=1;
